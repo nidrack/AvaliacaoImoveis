@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaliacaoImoveis", "AvaliacaoImoveis\AvaliacaoImoveis.csproj", "{BCE6A2B5-8D23-438E-90E4-2C543713FDA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaliacaoImoveis.Models", "AvaliacaoImoveis.Models\AvaliacaoImoveis.Models.csproj", "{C2192329-4FFA-4647-A707-A115E4CE1F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE6A2B5-8D23-438E-90E4-2C543713FDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE6A2B5-8D23-438E-90E4-2C543713FDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE6A2B5-8D23-438E-90E4-2C543713FDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE6A2B5-8D23-438E-90E4-2C543713FDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2192329-4FFA-4647-A707-A115E4CE1F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2192329-4FFA-4647-A707-A115E4CE1F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2192329-4FFA-4647-A707-A115E4CE1F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2192329-4FFA-4647-A707-A115E4CE1F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA9F9CC-BAD8-4559-B44C-879EB5B18949}
+	EndGlobalSection
+EndGlobal
